@@ -1,5 +1,41 @@
 ![Calarts Creative Computing Logo](https://i.imgur.com/235dOcD.png)
 
+<p align="center">
+  <a href="https://github.com/Calarts-Creative-Computing/robots/stargazers">
+    <img src="https://img.shields.io/github/stars/Calarts-Creative-Computing/robots?style=social" alt="Stars">
+  </a>
+  <a href="https://github.com/Calarts-Creative-Computing/robots/watchers">
+    <img src="https://img.shields.io/github/watchers/Calarts-Creative-Computing/robots?style=social" alt="Watchers">
+  </a>
+  <a href="https://github.com/Calarts-Creative-Computing/robots/network/members">
+    <img src="https://img.shields.io/github/forks/Calarts-Creative-Computing/robots?style=social" alt="Forks">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Calarts-Creative-Computing/robots/blob/main/LICENSE">
+    <img src="https://img.shields.io/github/license/Calarts-Creative-Computing/robots" alt="License">
+  </a>
+  <a href="https://github.com/Calarts-Creative-Computing/robots/issues">
+    <img src="https://img.shields.io/github/issues/Calarts-Creative-Computing/robots" alt="Issues">
+  </a>
+  <a href="https://github.com/Calarts-Creative-Computing/robots/pulls">
+    <img src="https://img.shields.io/github/issues-pr/Calarts-Creative-Computing/robots" alt="Pull Requests">
+  </a>
+  <a href="https://github.com/Calarts-Creative-Computing/robots/commits/main">
+    <img src="https://img.shields.io/github/last-commit/Calarts-Creative-Computing/robots" alt="Last Commit">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Calarts-Creative-Computing/robots">
+    <img src="https://img.shields.io/badge/View_on-GitHub-181717?logo=github&logoColor=white" alt="View on GitHub">
+  </a>
+  <a href="https://github.com/Calarts-Creative-Computing/robots/archive/refs/heads/main.zip">
+    <img src="https://img.shields.io/badge/Download-ZIP-28a745?logo=github" alt="Download ZIP">
+  </a>
+</p>
+
 
 robots
 ======
