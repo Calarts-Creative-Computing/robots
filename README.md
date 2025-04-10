@@ -1,4 +1,5 @@
-![Machine Orchesta](http://www.karmetik.com/sites/default/files/artist_photos/mo3.png)
+![Calarts Creative Computing Logo](https://i.imgur.com/235dOcD.png)
+
 
 robots
 ======
